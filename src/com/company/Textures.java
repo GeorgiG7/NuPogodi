@@ -11,9 +11,6 @@ public class Textures extends JComponent {
     int height;
     private String path;
 
-    public Textures() {
-    }
-
     public Textures(int x, int y, int width, int height, String path) {
         this.x = x;
         this.y = y;
