@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbee81ed-f093-45f2-bba7-f88d3fcc3a0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/Untitled-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/Untitled-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/chicken.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/images.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/Пустиняк.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/изтеглен файл.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/изтеглен файл.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/изтеглен файл.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/FuckedUpProject/com/company/Egg.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FuckedUpProject/com/company/Egg.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/FuckedUpProject/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FuckedUpProject/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FuckedUpProject/com/company/Textures$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FuckedUpProject/com/company/Textures$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FuckedUpProject/com/company/Textures.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FuckedUpProject/com/company/Textures.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Egg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Egg.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Textures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Textures.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,22 +80,22 @@
       <screen x="0" y="0" width="1024" height="768" />
     </state>
     <state x="317" y="84" key="#com.intellij.ide.util.MemberChooser/0.0.1024.768@0.0.1024.768" timestamp="1590805491859" />
-    <state width="980" height="131" key="GridCell.Tab.0.bottom" timestamp="1590808291593">
+    <state width="980" height="131" key="GridCell.Tab.0.bottom" timestamp="1590809884591">
       <screen x="0" y="0" width="1024" height="768" />
     </state>
-    <state width="980" height="131" key="GridCell.Tab.0.bottom/0.0.1024.768@0.0.1024.768" timestamp="1590808291593" />
-    <state width="980" height="131" key="GridCell.Tab.0.center" timestamp="1590808291593">
+    <state width="980" height="131" key="GridCell.Tab.0.bottom/0.0.1024.768@0.0.1024.768" timestamp="1590809884591" />
+    <state width="980" height="131" key="GridCell.Tab.0.center" timestamp="1590809884591">
       <screen x="0" y="0" width="1024" height="768" />
     </state>
-    <state width="980" height="131" key="GridCell.Tab.0.center/0.0.1024.768@0.0.1024.768" timestamp="1590808291593" />
-    <state width="980" height="131" key="GridCell.Tab.0.left" timestamp="1590808291593">
+    <state width="980" height="131" key="GridCell.Tab.0.center/0.0.1024.768@0.0.1024.768" timestamp="1590809884591" />
+    <state width="980" height="131" key="GridCell.Tab.0.left" timestamp="1590809884590">
       <screen x="0" y="0" width="1024" height="768" />
     </state>
-    <state width="980" height="131" key="GridCell.Tab.0.left/0.0.1024.768@0.0.1024.768" timestamp="1590808291593" />
-    <state width="980" height="131" key="GridCell.Tab.0.right" timestamp="1590808291593">
+    <state width="980" height="131" key="GridCell.Tab.0.left/0.0.1024.768@0.0.1024.768" timestamp="1590809884590" />
+    <state width="980" height="131" key="GridCell.Tab.0.right" timestamp="1590809884591">
       <screen x="0" y="0" width="1024" height="768" />
     </state>
-    <state width="980" height="131" key="GridCell.Tab.0.right/0.0.1024.768@0.0.1024.768" timestamp="1590808291593" />
+    <state width="980" height="131" key="GridCell.Tab.0.right/0.0.1024.768@0.0.1024.768" timestamp="1590809884591" />
     <state width="980" height="233" key="GridCell.Tab.1.bottom" timestamp="1590799970423">
       <screen x="0" y="0" width="1024" height="768" />
     </state>

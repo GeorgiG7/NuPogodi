@@ -54,6 +54,10 @@ public class Egg {
                 this.posX = 242;
                 this.posY = 25;
                 break;
+            case 5:
+                this.posY = 2000;
+                this.posX = 2000;
+                break;
         }
     }
 }
