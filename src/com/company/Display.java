@@ -32,13 +32,17 @@ public class Display {
 
     }
 
+    public int getWidth() {
+        return width;
+    }
+
     public void addGraphic(Textures t) {
         frame.getContentPane().add(t);
         frame.setVisible(true);
     }
 
-    public void removeGraphic(int index) {
-        frame.getContentPane().remove(index);
-    }
+//    public void removeGraphic(int index) {
+//        frame.getContentPane().remove(index);
+//    }
 
 }
