@@ -12,6 +12,7 @@ public class Egg {
         this.chickenNumber = chickenNumber;
         setCoordinatesByNumberOfChicken(chickenNumber);
         this.texture = new Textures(this.posX, this.posY, 25, 25, "Resources\\egg1.png");
+        Display.getInstance().addGraphic(this.texture);
     }
 
     public void setPosY(int posY) {
@@ -20,6 +21,11 @@ public class Egg {
 
     public int getPosY() {
         return posY;
+    }
+
+    public void setChickenNumber(int chickenNumber) {
+        this.chickenNumber = chickenNumber;
+        setCoordinatesByNumberOfChicken(chickenNumber);
     }
 
     public int getChickenNumber() {
