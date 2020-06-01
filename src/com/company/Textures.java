@@ -19,6 +19,21 @@ public class Textures extends JComponent {
         this.path = path;
     }
 
+    public Textures() {
+    }
+
+    public void setPath(String path) {
+        this.path = path;
+    }
+
+    public void setWidth(int width) {
+        this.width = width;
+    }
+
+    public void setHeight(int height) {
+        this.height = height;
+    }
+
     public int getX() {
         return x;
     }
