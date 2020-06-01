@@ -2,8 +2,9 @@
 Изготвили: Георги Господинов и Нанси Илиева	
 Дата: 2020-02-29 						
 email:
-gogogospodinov69@gmail.com                       Предмет: Програмиране с Java, част 2 (ООП)
-gnr.axlrose.6.2.1962@gmail.com	                 GitHub: https://github.com/GoSh069/NuPogodi
+gogogospodinov69@gmail.com       gnr.axlrose.6.2.1962@gmail.com               
+Предмет: Програмиране с Java, част 2 (ООП)
+GitHub: https://github.com/GoSh069/NuPogodi
 
 
 Ну Погоди играта 
